@@ -4,22 +4,44 @@ I am a student from Poland in the **second year** of my **bachelor's degree** jo
 🌱 I am currently developing my C++ skills
 
 <!--
-#### TODO
-
-During my studies, I learned a lot of stuff such as C++, Python, SQL, MySQL, HTML, CSS, JavaScript, Kotlin, Python, PHP, Kotlin, Bash, Linux, Blender, Computer Science, phpMyAdmin, Visual Studio Community, Visual Studio Code, Android Studio.
-
-Unfortunately, my knowledge is not yet solidified, which is a point in my learning journey that I would like to focus on.
-
 ![coding-snake's GitHub stats](https://github-readme-stats.vercel.app/api?username=coding-snake&show_icons=true&theme=onedark)
--->
 
-<!--
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
+#### Learning paths
+🌱 C++ Developer
+🌱 
+🌱
+🌱
+
+#### Skills
+⚡ Computer Science
+⚡ SQL
+⚡ C++
+⚡ Python
+⚡ HTML
+⚡ CSS
+⚡ JavaScript
+⚡ PHP
+⚡ BASH
+⚡ Kotlin
+
+#### Tools
+🔧 MySQL
+🔧
+🔧
+🔧
+
+#### Workspace
+💻 Visual Studio
+💻 Visual Studio Code
+💻 phpMyAdmin
+💻 Android Studio
+💻 Blender
+
+
+#### Current Goals
+📌 Earning a bachelor's degree
+📌 Honing my C++ skills
+📌
+📌
+
 -->
