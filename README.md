@@ -1,10 +1,19 @@
 ### Hi there 👋
+I am a student from Poland in the **second year** of my **bachelor's degree** journey on an IT major classified by _ISCED_ as **software and applications development and analysis** and here is the link to an [official website](https://sylabus.uj.edu.pl/en/5/1/2/9/126?masterElement=9).
+
+🌱 I am currently developing my C++ skills
 
 <!--
-**coding-snake/coding-snake** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+#### TODO
 
-Here are some ideas to get you started:
+During my studies, I learned a lot of stuff such as C++, Python, SQL, MySQL, HTML, CSS, JavaScript, Kotlin, Python, PHP, Kotlin, Bash, Linux, Blender, Computer Science, phpMyAdmin, Visual Studio Community, Visual Studio Code, Android Studio.
 
+Unfortunately, my knowledge is not yet solidified, which is a point in my learning journey that I would like to focus on.
+
+![coding-snake's GitHub stats](https://github-readme-stats.vercel.app/api?username=coding-snake&show_icons=true&theme=onedark)
+-->
+
+<!--
 - 🔭 I’m currently working on ...
 - 🌱 I’m currently learning ...
 - 👯 I’m looking to collaborate on ...
