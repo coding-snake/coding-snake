@@ -1,63 +1,43 @@
 ### Hi there 👋
 
-I am a student from Poland in the **second year** of my **bachelor's degree** journey on an IT major classified by _ISCED_ as **software and applications development and analysis** and here is the link to an [official website](https://sylabus.uj.edu.pl/en/5/1/2/9/126?masterElement=9).
+I am a Polish student in the **second year** of my **bachelor's degree** journey. 
+My major is classified by ISCED as _software and applications development and analysis_, more you can find under [university website](https://sylabus.uj.edu.pl/en/5/1/2/9/126?masterElement=9)
 
+---
 
-#### Learning paths
-🌱 C++ Developer
+![coding-snake's GitHub stats](https://github-readme-stats.vercel.app/api?username=coding-snake&show_icons=true&theme=onedark)
 
-#### Skills
+---
+#### My skillset
+
+##### Novice
+
+I did some work, but I don't understand all the basics
+
 ⚡HTML
-⚡Bash
+⚡CSS
+⚡JavaScript
 ⚡PHP
+⚡Python
+⚡Blender
+⚡Bash
+⚡Kotlin
+⚡Git
+
+##### Beginner
+
+I feel confident in my basics, but I lack more creative accomplishments
+
+⚡C++
+⚡SQL (MySQL)
+
 
 #### Tools
 🔧 Visual Studio Community
 🔧 Visual Studio Code
 🔧 phpMyAdmin
+🔧 Blender
 
 #### Current Goals
 📌 Earning a bachelor's degree
 📌 Honing my C++ skills
-<!--
-![coding-snake's GitHub stats](https://github-readme-stats.vercel.app/api?username=coding-snake&show_icons=true&theme=onedark)
-
-#### Learning paths
-🌱 C++ Developer
-🌱 
-🌱
-🌱
-
-#### Skills
-⚡ Computer Science
-⚡ SQL
-⚡ C++
-⚡ Python
-⚡ HTML
-⚡ CSS
-⚡ JavaScript
-⚡ PHP
-⚡ BASH
-⚡ Kotlin
-
-#### Tools
-🔧 MySQL
-🔧
-🔧
-🔧
-
-#### Workspace
-💻 Visual Studio
-💻 Visual Studio Code
-💻 phpMyAdmin
-💻 Android Studio
-💻 Blender
-
-
-#### Current Goals
-📌 Earning a bachelor's degree
-📌 Honing my C++ skills
-📌
-📌
-
--->
