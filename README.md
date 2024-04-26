@@ -8,6 +8,15 @@ My major is classified by ISCED as _software and applications development and an
 ![coding-snake's GitHub stats](https://github-readme-stats.vercel.app/api?username=coding-snake&show_icons=true&theme=onedark)
 
 ---
+Strengths:
+
+🔥 persistance
+
+Weaknesses:
+
+💢 impostor syndrome
+
+---
 #### My skillset
 
 ##### Novice
