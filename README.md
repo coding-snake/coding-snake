@@ -4,11 +4,6 @@ I am a student in the 3rd year of Bachelor's degree in _electronic information p
 
 ### My skillset
 
-
-
-
-I am mainly focused on developing my skills in **Backend Development**, at this moment I am working on my bachelor's degree project.
-
 <!--
 ⭐⭐⭐⭐⭐
 🌑🌑🌑🌑🌑
